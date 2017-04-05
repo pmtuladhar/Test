@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="100412" started-at="2017-04-03T19:05:57Z" finished-at="2017-04-03T19:07:37Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="100412" started-at="2017-04-03T19:05:57Z" finished-at="2017-04-03T19:07:37Z">
+      <class name="StewartSeedTestCase1.mainTestCase">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:StewartSeedTestCase1.mainTestCase@68837a77]" name="beforeMethod" is-config="true" duration-ms="7842" started-at="2017-04-03T14:05:57Z" finished-at="2017-04-03T14:06:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="login()[pri:0, instance:StewartSeedTestCase1.mainTestCase@68837a77]" name="login" duration-ms="9451" started-at="2017-04-03T14:06:04Z" finished-at="2017-04-03T14:06:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="navigatingTabs()[pri:1, instance:StewartSeedTestCase1.mainTestCase@68837a77]" name="navigatingTabs" duration-ms="80813" started-at="2017-04-03T14:06:14Z" finished-at="2017-04-03T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigatingTabs -->
+        <test-method status="PASS" signature="logoff()[pri:2, instance:StewartSeedTestCase1.mainTestCase@68837a77]" name="logoff" duration-ms="460" started-at="2017-04-03T14:07:35Z" finished-at="2017-04-03T14:07:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoff -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:StewartSeedTestCase1.mainTestCase@68837a77]" name="afterMethod" is-config="true" duration-ms="1822" started-at="2017-04-03T14:07:35Z" finished-at="2017-04-03T14:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- StewartSeedTestCase1.mainTestCase -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
